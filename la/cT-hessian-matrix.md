@@ -4,7 +4,7 @@ Hessian is a square matrix of second-order partial derivatives of a scalar-value
 
 Suppose $f:R^n \rightarrow R$, if all second partial derivatives of $f$ exist and are continuous over the domain of the function, then the Hessian matrix $H$ of $f$ is a square $n \times n$ matrix.
 
-![Hessian](./img/hessian.svg)
+![Hessian](./img/hessian.jpg)
 
 ### Second Derivative Test
 
